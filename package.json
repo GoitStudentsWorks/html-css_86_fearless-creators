@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/fearless-creators/",
+    "build": "vite build --base=/html-css_86_fearless-creators/",
     "preview": "vite preview"
   },
   "devDependencies": {
